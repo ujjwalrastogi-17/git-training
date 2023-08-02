@@ -1,0 +1,14 @@
+### List of commands and their uses 
+- git status
+- git log // get log of the current branch
+- git branch //list all branch
+- git checkout -b // -b to checkout to new branch from current
+- git push // set upstream to sync branch to update remote branch
+- git pull // to sync the local branch with remote branch 
+- git fetch // to update the remote branches present in local 
+- git reset 
+- git add // to stage the changes
+- git commit // to commit the changes, use --amend to update comments
+- git restore // to restore the changes made for a specific file
+- git merge 
+- git stash /pop/apply/drop/save "description"/list/show -p stash@{id}      // to stash or bury the changes made in a branch which we can return to at a later point using pop.
